@@ -4,6 +4,6 @@ read length
 echo "gimme the width of the rectangle"
 read width
 
-var=$(2 * length + 2 * width)
+var=$("length" * "width")
 echo $var
 
