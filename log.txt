@@ -1,0 +1,4 @@
+40779a0 (HEAD -> master, origin/master) created a file delete
+7f4efdd new script peremiter of rectangle
+24a955a created a new git repository
+
